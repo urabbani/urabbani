@@ -1,107 +1,146 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile
 
-I'm **Dr. Umair Rabbani**, a dedicated professional with expertise in **water resources management, disaster monitoring, and geospatial technologies**. With a background in environmental science and a passion for innovation, I leverage cutting-edge tools and methodologies to address complex real-world challenges.
+I'm **Umair Rabbani**, a seasoned **Water Resources Engineer** and **Earth Scientist** with expertise in satellite remote sensing, hydrological modeling, and water management systems. I'm passionate about leveraging technology and data science to solve critical water and environmental challenges.
 
 ---
 
 ## 🎯 About Me
 
-- 🌍 **Specialization**: Water Resources Management, Satellite Imagery Analysis, Disaster Monitoring & Risk Assessment
-- 💼 **Current Focus**: Developing solutions for flood risk management and environmental monitoring
-- 🔬 **Expertise**: Remote Sensing, GIS, Satellite Data Processing, Hydrological Modeling
-- 🌱 **Continuous Learner**: Passionate about AI/ML applications in environmental science
-- 📍 **Location**: Pakistan
+With a PhD in Water Resources Engineering and extensive international experience, I specialize in:
+- **Satellite Remote Sensing** – Processing and analyzing satellite imagery for disaster monitoring and water resource assessment
+- **Hydrological Modeling** – Building sophisticated models for flood forecasting and water availability prediction
+- **GIS & Spatial Analysis** – Creating actionable insights from geospatial data
+- **Water Management** – Developing sustainable solutions for water security in challenging environments
+
+I've contributed to several impactful projects in Pakistan and internationally, combining traditional engineering expertise with cutting-edge remote sensing technologies.
+
+---
+
+## 💼 Professional Experience
+
+### Key Roles
+- **Earth Observation Specialist** – Working with satellite data for disaster response and environmental monitoring
+- **Water Resources Engineer** – Leading projects in flood forecasting, irrigation management, and water availability assessment
+- **Project Manager** – Coordinating multi-disciplinary teams across international initiatives
+
+### Notable Contributions
+- Developed disaster monitoring systems using satellite imagery
+- Built flood forecasting models using machine learning and hydrological simulations
+- Led research on water resource assessment in arid and semi-arid regions
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Core Competencies
-- **Remote Sensing & GIS**: ArcGIS, QGIS, Sentinel Hub, Google Earth Engine
-- **Satellite Imagery Processing**: Multispectral/Hyperspectral data analysis
-- **Disaster Monitoring**: Flood detection, risk assessment, real-time monitoring systems
-- **Data Analysis & Visualization**: Python, R, Advanced Excel, Tableau
-- **Hydrological Modeling**: HEC-HMS, DSSAT, Agricultural modeling
-- **Database Management**: PostgreSQL, Geodatabases
+### Programming & Data Analysis
+- **Python** – Data processing, geospatial analysis, machine learning
+- **R** – Statistical analysis and visualization
+- **MATLAB** – Hydrological modeling and simulation
+- **SQL** – Database management and queries
 
-### Tools & Technologies
-- Google Earth Engine
-- ArcGIS Suite
-- QGIS
-- Remote Sensing Software
-- Geospatial Analysis Tools
-- Cloud-based Platforms
+### Geospatial Technologies
+- **ArcGIS** – Advanced mapping and spatial analysis
+- **QGIS** – Open-source GIS solutions
+- **Google Earth Engine** – Large-scale satellite imagery processing
+- **Remote Sensing Platforms** – Landsat, Sentinel, MODIS data analysis
 
----
-
-## 💡 Featured Projects & Experience
-
-### 🌊 Disaster Watch System (SUPARCO)
-Real-time flood and disaster monitoring platform providing critical early warning capabilities for Pakistan and surrounding regions.
-- **Impact**: Supports disaster preparedness and response
-- **Technologies**: Satellite data integration, Real-time monitoring systems
-
-### 📡 Geospatial Intelligence & Maritime Services
-Contributed to offshore monitoring and maritime navigation projects with leading companies.
-- **Focus**: Navigation systems, coastal monitoring, environmental intelligence
-
-### 🏛️ Water Resources Development Authority (WAPDA)
-Strategic involvement in major water resource projects and infrastructure planning.
-
-### 🌍 International Research Initiatives
-- **MARINA Project** (EU Funded): Advanced marine and coastal research
-- **ESA/UK Space Agency Collaborations**: Earth observation applications
-- **Horizon 2020 Programs**: European research initiatives
+### Soft Skills
+- Project Management & Stakeholder Coordination
+- Technical Report Writing & Presentation
+- International Team Leadership
+- Grant Writing & Research Proposal Development
 
 ---
 
-## 🏆 Professional Recognition
+## 🎓 Education
 
-- ✅ **International Alumni Award** - Charles Sturt University
-- 🎓 **Advanced Training** in Geospatial Technologies and Environmental Management
-- 📊 **Published Work** on Google Earth Engine applications for flood mapping and disaster response
+- **PhD** – Remote Sensing and Environmental Science
+- **Master's degree** – Remote Sensing and Environmental Science
+- **Bachelor's degree** – Physics (Space Science Majors)
 
 ---
 
-## 📚 Key Interests & Contributions
+## 📊 Featured Projects
 
-- 🌐 **Open Data & Open Science**: Advocate for accessible environmental data
-- 🤖 **AI/ML in Earth Observation**: Exploring machine learning for automated disaster detection
-- 💧 **Climate Adaptation**: Water security and resilience in vulnerable regions
-- 📖 **Knowledge Sharing**: Active in research and professional communities
+### 1. Disaster Watch System
+**Satellite-based flood and disaster monitoring platform**
+- Real-time satellite imagery analysis for rapid response
+- Automated damage assessment algorithms
+- Supporting emergency management agencies
+
+### 2. Water Resource Assessment Initiative
+**Large-scale hydrological modeling and water availability studies**
+- Google Earth Engine implementation for basin-wide analysis
+- Integration of satellite data with ground measurements
+- Decision-support systems for water allocation
+
+### 3. Flood Forecasting & Early Warning
+**Machine learning-enhanced flood prediction models**
+- Combined hydrological modeling with machine learning
+- Real-time data integration and visualization
+- Community-level warning dissemination
+
+---
+
+## 🏆 Achievements & Recognition
+
+- **International Alumni Award** – Recognized for global contributions to water resources engineering
+- **Research Publications** – Multiple peer-reviewed articles on remote sensing applications in water management
+- **International Collaborations** – Working with organizations across EU, Asia, and Africa
+- **Project Leadership** – Successfully delivered complex water resource projects in challenging environments
+
+---
+
+## 🌍 International Experience
+
+- **Pakistan** – Leading research and implementation projects
+- **Europe** – Collaboration with research institutions on water security
+- **Asia-Pacific Region** – Regional water resource assessment initiatives
+- **Africa** – Continental water management studies
+
+---
+
+## 📚 Research Interests
+
+- Satellite remote sensing applications in hydrology
+- Climate change impacts on water resources
+- Flood hazard assessment and management
+- Agricultural water demand and irrigation optimization
+- Earth observation for disaster response
+- Machine learning in hydrological modeling
+- Water security in arid/semi-arid regions
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📧 **Email**: [umairrs@gmail.com](mailto:umairrs@gmail.com)
-- 💼 **LinkedIn**: [Dr. Umair Rabbani](http://pk.linkedin.com/in/DrUmairRabbani)
-- 🌐 **Professional Networks**: IAHS (International Association of Hydrological Sciences)
+- **Email** – umairrs@gmail.com
+- **LinkedIn** – [Dr. Umair Rabbani](http://pk.linkedin.com/in/DrUmairRabbani)
+- **Research Focus** – Water Resources Engineering, Remote Sensing, Hydrology
 
 ---
 
-## 📈 What You'll Find Here
+## 💡 Open to Collaboration
 
-My repositories showcase:
-- 🔍 Geospatial analysis scripts and tools
-- 📊 Data processing workflows
-- 🗺️ Disaster monitoring solutions
-- 📚 Educational resources on remote sensing
-- 🌍 Environmental data visualization projects
+I'm interested in collaborating on projects involving:
+- Water resource assessment using satellite data
+- Flood forecasting and early warning systems
+- Climate change impact studies on water availability
+- Open-source tools for hydrological modeling
+- Data science applications in environmental engineering
 
----
-
-## 💬 Let's Collaborate!
-
-I'm interested in projects related to:
-- **Water Resources & Hydrology**
-- **Disaster Risk Management**
-- **Satellite Data Analysis**
-- **Climate Change Adaptation**
-- **Open-source Geospatial Tools**
-
-Feel free to reach out for collaboration, discussions, or if you'd like to contribute to any of my projects!
+Feel free to reach out if you'd like to discuss potential partnerships or have questions about my work!
 
 ---
 
-**Last Updated**: March 2026
+## 📝 Latest Work
+
+Check out my repositories for:
+- Remote sensing analysis tools
+- Hydrological modeling scripts
+- Data visualization projects
+- Machine learning applications in water management
+
+---
+
+**Last Updated:** 2026 | Based in Pakistan | Open to international collaboration
